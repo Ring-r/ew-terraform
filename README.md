@@ -1,4 +1,4 @@
-# terraform-experiments
+# ew-terraform
 experiments with terraform
 
 ## create s3 bucket to store terraform states (once for all projects)
